@@ -1,7 +1,3 @@
-Here's a comprehensive README template for your Recipe Management Application project:
-
----
-
 # Recipe Management Application
 
 ## Overview
@@ -126,7 +122,3 @@ Feel free to contribute by opening issues or pull requests. Ensure your code fol
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Adjust the content as necessary to match your exact implementation details and preferences.
